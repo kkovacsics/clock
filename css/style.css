@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Cyberverse;
+    src: url('Cyberverse.otf');
+}
+
 html {
     font-size: 16px;
 }
